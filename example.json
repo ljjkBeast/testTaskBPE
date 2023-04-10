@@ -1,0 +1,28 @@
+{
+    "people": [
+        {
+            "name": "John",
+            "age": 25,
+            "country": "USA",
+            "updated": "2023-04-10T16:09:37.609993"
+        },
+        {
+            "name": "Alice",
+            "age": 30,
+            "country": "Canada",
+            "updated": "2023-04-10T16:09:37.609993"
+        },
+        {
+            "name": "Peter",
+            "age": 45,
+            "country": "UK",
+            "updated": "2023-04-10T16:09:37.609993"
+        },
+        {
+            "name": "Anna",
+            "age": 20,
+            "country": "Russia",
+            "updated": "2023-04-10T16:09:37.609993"
+        }
+    ]
+}
